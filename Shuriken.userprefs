@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StressParticles.js">
+    <Files>
+      <File FileName="Assets/Scripts/StressParticles.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/comeBack.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/newuser/Documents/Unity Projects/5.x Projects/Shuriken/Assets/Scripts/StressParticles.js" line="28" />
+      <Breakpoint file="/Users/newuser/Documents/Unity Projects/5.x Projects/Shuriken/Assets/Scripts/StressParticles.js" line="44" />
+      <Breakpoint file="/Users/newuser/Documents/Unity Projects/5.x Projects/Shuriken/Assets/Scripts/StressParticles.js" line="48" />
+      <Breakpoint file="/Users/newuser/Documents/Unity Projects/5.x Projects/Shuriken/Assets/Scripts/StressParticles.js" line="55" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
